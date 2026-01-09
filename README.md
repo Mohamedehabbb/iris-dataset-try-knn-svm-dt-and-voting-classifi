@@ -221,7 +221,7 @@ Data Scientist | Machine Learning Engineer
 ⭐ *This project demonstrates a professional, end-to-end approach to regression modeling with a strong focus on business impact and interpretability.*
 ## 🔗 Kaggle Notebook
 You can view the complete notebook and full execution on Kaggle:  
-👉[ https://www.kaggle.com/code/mohamedehaab/tv-marketing-sales-prediction-advanced-regression](https://www.kaggle.com/code/mohamedehaab/iris-dataset-try-knn-svm-dt-and-voting-classifi)
+👉 https://www.kaggle.com/code/mohamedehaab/iris-dataset-try-knn-svm-dt-and-voting-classifi
 
 
 ⭐ *If you find this project useful, feel free to star the repository and explore other projects on my GitHub profile.*
